@@ -1,2 +1,2 @@
 # Machine-learning
-Here are some of my Assignments from andru-ng sir's course on coursera.
+Here are some of my Assignments of machine learning course.
